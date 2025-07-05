@@ -65,8 +65,6 @@
 <div align="center">
   
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pradeep-chetri&theme=vue&hide_border=false&show_icons=true)
-  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=pradeep-chetri&theme=vue&hide_border=false)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pradeep-chetri&layout=compact&theme=vue&hide_border=false)
 
